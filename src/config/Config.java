@@ -10,4 +10,6 @@ public class Config {
 
     public static final String PATH_DATABASE = "src/resources/";
     public static final String FILENAME = "database.csv";
+
+    public static final String PATH_DTO_CLASSES = "..\\RentCompanyDTO\\src\\cars\\dto\\";
 }

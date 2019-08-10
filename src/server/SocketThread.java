@@ -1,6 +1,6 @@
 package server;
 
-import cars.dto.Request;
+import cars.Request;
 import response.Protocol;
 
 import java.io.IOException;

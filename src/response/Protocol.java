@@ -1,7 +1,7 @@
 package response;
 
-import cars.dto.Request;
-import cars.dto.Response;
+import cars.Request;
+import cars.Response;
 
 public interface Protocol {
     Response getResponse(Request request);
